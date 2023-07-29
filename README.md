@@ -1,21 +1,34 @@
-# Work_skills
-The purpose of this repository is to showcase abilities, within a coding space, of a work related nature. <br>
-<i>"Work related"</i> being defined as but not limited to: <br>
+<h1>Data Science skills</h1>
+The purpose of this repository is to showcase abilities, within a coding space, of a professional nature. <br>
+<i>"Professional nature"</i> being defined as but not limited to: 
 <ul>
-  <li>Report creation,</li>
-  <li>Dynamic coding,</li>
-  <li>Data manipulation:</li>
+  <li><b>Data Science</b>,</li>
   <ul>
-    <dd>a. Pandas (DataFrames)</dd>
+    <dd>a. Machine Learning:</dd>
+      <ul>
+        <dd>i ) Supervised,</dd>
+        <dd>ii ) Unsupervised.</dd>
+      </ul>
+    <dd>b. Predictions:</dd>
+      <ul>
+        <dd>i ) Forecasting.</dd>
+      </ul>
+    <dd>c. Web Scraping.</dd>
   </ul>
-  <li>Visualisation:</li>
+  <li><b>Dynamic coding</b>,</li>
+  <li><b>Data manipulation</b>:</li>
   <ul>
-    <dd>a. graphing,</dd>
-    <dd>b. charting,</dd>
-    <dd>c. plotting</dd>
+    <dd>a. Pandas (DataFrames).</dd>
   </ul>
-  <li>etc.</li> <!-- Add more content later-->
+  <li><b>Visualisation</b>:</li>
+  <ul>
+    <dd>a. Graphing,</dd>
+    <dd>b. Charting,</dd>
+    <dd>c. Plotting.</dd>
+  </ul>
+  <li><b>Report creation</b>,</li>
+  <li><b>etc.</b></li> <!-- Add more content later-->
 </ul>
-<br>
-All code present is based on real world skills; used in real life work settings. Only the data used has been generated for illustrative purposes. <br>
 <i>Illustrations to follow...</i>
+<br><br><br><br>
+<sup>All code present is based on real world problems, only the data used has been generated for illustrative purposes.</sup>
